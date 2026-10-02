@@ -1,0 +1,9 @@
+# 라이트/다크를 따로 지정해야 시스템 설정(다크 모드)을 그대로 따라감
+[theme.light]
+primaryColor = "#137437"
+
+[theme.dark]
+primaryColor = "#4ade80"
+
+[client]
+toolbarMode = "minimal"
